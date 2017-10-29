@@ -1,4 +1,4 @@
-# LinearRegression, unsupervised learning; split training and testing data, compute on training data and result outcome with testing data to check model 
+# LinearRegression, supervised learning; split training and testing data, compute on training data and result outcome with testing data to check model 
 # overfit or underfit.
 
 import pandas as pd 
